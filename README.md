@@ -3,6 +3,7 @@
 ### Version: 1.0.0  
 ### Author: Paul M. Roe (TecKnows Inc., Maine)  
 ### ORCID: https://orcid.org/0009-0005-6159-947X
+### Zenodo: 10.5281/zenodo.17741548
 
 ---
 
