@@ -1,0 +1,8 @@
+{
+    "simulation": "3D entropy-stabilized Navier\u2013Stokes (RHEA-UCM)",
+    "grid_resolution": 64,
+    "T": 0.5,
+    "dt": 0.001,
+    "viscosity": 0.01,
+    "gpu_used": true
+}

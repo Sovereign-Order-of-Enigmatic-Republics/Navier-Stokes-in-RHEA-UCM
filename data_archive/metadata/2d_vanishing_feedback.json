@@ -1,0 +1,28 @@
+{
+    "equations": "2D viscous Burgers with vanishing feedback",
+    "grid_resolution": 256,
+    "dt": 0.002,
+    "T": 1.0,
+    "runs": [
+        {
+            "eps": 0.2,
+            "file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\simulations\\2d_vanishing_feedback\\eps_0.2_run01.npz",
+            "max_H1": 4.470929299617555
+        },
+        {
+            "eps": 0.1,
+            "file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\simulations\\2d_vanishing_feedback\\eps_0.1_run01.npz",
+            "max_H1": 4.470929299617555
+        },
+        {
+            "eps": 0.05,
+            "file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\simulations\\2d_vanishing_feedback\\eps_0.05_run01.npz",
+            "max_H1": 4.470929299617555
+        },
+        {
+            "eps": 0.0,
+            "file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\simulations\\2d_vanishing_feedback\\eps_0.0_run01.npz",
+            "max_H1": 25.412069617214648
+        }
+    ]
+}
