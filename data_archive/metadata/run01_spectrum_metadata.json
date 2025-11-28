@@ -1,0 +1,19 @@
+{
+    "description": "3D controlled Navier\u2013Stokes spectral shell energies (Figure 5)",
+    "npz_file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\simulations\\3d_spectrum\\run01_spectrum.npz",
+    "figure_file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\figures\\fig_3D_spectrum.png",
+    "checksum_file": "C:\\Users\\south\\Documents\\TecKnows_2025\\Stokes Archive\\Entropy_NS_Artifact\\data_archive\\checksums\\run01_spectrum.sha256",
+    "device": "cuda",
+    "device_status": "[GPU] CUDA Detected \u2014 Accelerated",
+    "N": 64,
+    "nu": 0.005,
+    "eps": 0.02,
+    "L": 6.283185307179586,
+    "Tfinal": 10.0,
+    "dt": 0.0005,
+    "Nt": 20000,
+    "diag_every": 50,
+    "num_shells": 56,
+    "k_shells_min": 0,
+    "k_shells_max": 55
+}

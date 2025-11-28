@@ -1,0 +1,17 @@
+{
+  "simulation": "3D Controlled NS - Entropy",
+  "figure": "Figure 6",
+  "npz": "data_archive\\simulations\\3d_entropy\\run01_entropy.npz",
+  "figure_path": "data_archive\\figures\\fig_3D_entropy.png",
+  "sha256": "b6be2c7e34e0b268505b2db6103c7b3929716d1b8ee02d329507b6a1af2fe4dc",
+  "parameters": {
+    "N": 64,
+    "nu": 0.005,
+    "eps": 0.02,
+    "dt": 0.0005,
+    "Tfinal": 10.0,
+    "Nt": 20000
+  },
+  "device": "cuda",
+  "created": "2025-11-28T05:10:51.189164Z"
+}
