@@ -1,4 +1,9 @@
-﻿# Navier–Stokes Unified Framework — Simulation Artifact Archive
+<h3 align="center">
+  <b>Zadeian Labs</b><br>
+  <sub>Sovereign Order of Enigmatic Republics</sub>
+</h3>
+
+ # Navier–Stokes Unified Framework — Simulation Artifact Archive
 ### Version: 1.0.0  
 ### Author: Paul M. Roe (TecKnows Inc., Maine)  
 ### ORCID: https://orcid.org/0009-0005-6159-947X
@@ -173,5 +178,6 @@ Author:
     Paul M. Roe  
     TecKnows Inc., Androscoggin County, Maine  
     ORCID: 0009-0005-6159-947X
+
 
 License Version: 1.0 — January 2025
