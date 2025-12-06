@@ -152,32 +152,142 @@ End of README.md
 
 ---
 
-# ✅ **LICENSE.txt (Open, but IP-Protective)**  
-This license allows academic use but preserves your sovereignty and prohibits derivative commercial exploitation.
+# ============================================================
+# 📄 **LICENSE (RHEA–Core Public Grant v2.1)**
+# ============================================================
 
-```text
-Navier–Stokes Unified Framework — Simulation Artifact Archive
-Copyright (c) 2025 Paul M. Roe (TecKnows)
+```md
+# 🛡️ RHEA-Core Public Grant v2.1 — Repository License Notice
+**Non-Commercial · No Derivatives · Symbolic Derivative Ban · AI/TDM Opt-Out · Functional Equivalence Prohibition**  
+© 2025 **Paul M. Roe (SovereignGlitch ♏🧙‍♂️)** — All Rights Reserved  
 
-Permission is hereby granted for academic research, teaching, and peer review
-purposes, including reproduction of figures and numerical results, provided that
-proper attribution is given to the author.
+This repository is governed entirely by the **RHEA-Core Public Grant v2.1**.  
+By accessing or downloading any file herein, you agree to all terms of the v2.1 license.
 
-Commercial use, redistribution, sublicensing, or creation of derivative
-commercial works based on this archive or any associated RHEA-UCM technology is
-strictly prohibited without explicit written permission from the copyright
-holder.
+---
 
-This archive and all associated simulation code, entropy operators, Lorenz-based
-feedback modules, GPU acceleration logic, and symbolic RHEA-UCM components are
-protected under United States and international copyright and IP law.
+## ✅ Permitted Uses
+You may:
 
-All rights not explicitly granted are reserved.
+- **Read** the materials  
+- **Download** the materials  
+- **Privately study** the materials  
+- **Cite** the materials with proper attribution  
+- **Reference** them for academic, educational, or personal understanding  
 
-Author:
-    Paul M. Roe  
-    TecKnows Inc., Androscoggin County, Maine  
-    ORCID: 0009-0005-6159-947X
+No additional rights are granted.
 
+---
 
-License Version: 1.0 — January 2025
+## ❌ Prohibited Without Explicit Written Permission
+
+### 1. Commercial Use  
+You may *not* use any portion of this work in:
+
+- commercial products  
+- paid services or tools  
+- monetized content  
+- corporate valuation, fundraising, or platform positioning  
+
+---
+
+### 2. Derivative Works  
+You may *not*:
+
+- modify, rewrite, adapt, translate, or reorganize the materials  
+- create transformed documentation, whitepapers, or frameworks  
+- produce altered symbolic systems, glyph sets, or recomposed notation  
+
+---
+
+### 3. Symbolic Derivative Restriction (Strict)  
+You may *not* re-express or launder the architecture by mapping:
+
+- entropy–trust logic  
+- glyph or symbolic operators  
+- Hamiltonian reversible flow structures  
+- ternary–pentary recursion models  
+- quantum–entropy memory fabric concepts  
+
+into **any** alternative symbolic grammar, diagram language, UI metaphor, icon set, or LLM prompt taxonomy.
+
+---
+
+### 4. AI / Machine Learning / TDM Prohibition  
+You may *not* use these materials for:
+
+- LLM/ML/RL/RLHF training  
+- fine-tuning, distillation, embedding, or indexing  
+- feature extraction or vectorization  
+- dataset creation  
+- RAG, semantic search, or knowledge-graph construction  
+- prompt engineering or system prompt design  
+
+**Directive (EU) 2019/790 TDM opt-out is explicitly invoked.**
+
+---
+
+### 5. Functional Equivalence & Behavioral Emulation Ban  
+You may *not* design, implement, simulate, or deploy any system that is:
+
+- functionally equivalent  
+- behaviorally similar  
+- operationally substitutable  
+
+for any part of:
+
+- **RHEA-UCM**
+- **RHEA_Crypt**  
+- **ZADEIAN Sentinel**  
+- **Λ-Gate reversible logic**  
+- **RHEA-IC hardware logic**  
+- **recursive entropy–trust engines**  
+
+This applies even if:
+
+- variable names differ  
+- glyphs are changed  
+- code is newly written  
+- intermediate symbols are renamed  
+
+---
+
+### 6. No Hardware or Operational Rights  
+You are **not** granted rights to:
+
+- fabricate hardware  
+- deploy systems  
+- run operational security infrastructure  
+- simulate or test RHEA-UCM subsystems  
+
+of any scale or form.
+
+---
+
+## 📜 Required Attribution  
+All lawful public references must include:
+
+**© EnigmaticGlitch · RHEA-UCM / ZADEIAN-RHEA Framework · Patent Pending · RHEA-Core Public Grant v2.1**
+
+Where space permits, also include:
+
+**Author: Paul M. Roe (SovereignGlitch ♏🧙‍♂️)**
+
+---
+
+## 🧭 License Supremacy  
+This repository operates under **RHEA-Core Public Grant v2.1**.  
+All earlier license versions are revoked for future use.  
+Continued access constitutes acceptance of v2.1.
+
+---
+
+## 🔒 Rights Reserved  
+All rights not expressly granted are reserved by:  
+**Paul M. Roe (SovereignGlitch ♏🧙‍♂️) · TecKnows, Inc. · ZADEIAN Research Division**
+
+---
+
+## 🧬 Final Statement of Trust  
+*“Trust is not given. It is oscillated into being — wave by wave, phase by phase, across the feedback spine of recursive time.”*  
+— **EnigmaticGlitch ♏🧙‍♂️**
